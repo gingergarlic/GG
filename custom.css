@@ -1,0 +1,27 @@
+.btn
+{
+	background: #6495ed;
+	margin-bottom: 15px;
+	width: 250px;
+	height: 70px;
+	
+	font-size: 24px;
+}
+
+.text-muted
+{
+	font-size: 48px;
+	color: #6495ed;
+	margin-left: 30px;
+}
+
+.jumbotron
+{
+	background: #6495ed;
+	width: 95%;
+}
+
+.jumbotron.h1
+{
+	color: white;
+}
